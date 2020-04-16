@@ -10,9 +10,9 @@ public class Application {
         Cat[] cats = new Cat[4];
         
         cats[0] = new Cat("Barsik", 9);
-        cats[0] = new Cat("Murzik", 7);
-        cats[0] = new Cat("Bibbo", 4);
-        cats[0] = new Cat("Vasyka", 11);
+        cats[1] = new Cat("Murzik", 7);
+        cats[2] = new Cat("Bibbo", 4);
+        cats[3] = new Cat("Vasyka", 11);
         /*
          * TODO(Студент): Проинициализируйте массив strings
          *
